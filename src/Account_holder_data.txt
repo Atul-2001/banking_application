@@ -1,0 +1,89 @@
++-----------------------------------------------------------------+
+Date & Time:    Mon Dec 30 19:35:57 2019
+
+Account type:   Saving
+Account Number: 6789000100012345
+Balance:        100.0
+Name:           Atul Suryavanshi
+Father Name:    Tej Pratap Singh
+Mother Name:    Asha Singh
+Age:            18
+Date of Birth:  15/09/2001
+City:           Ayodhya
+State:          Uttar Pradesh
+Country:        India
+Branch:         Ayodhya
+Mobile:         8869975446
++-----------------------------------------------------------------+
+Balance:        0.000000
++-----------------------------------------------------------------+
+Date & Time:    Tue Dec 31 18:22:49 2019
+
+Account type:   Current
+Account Number: 6789000100056789
+Balance:        0.000000
+Name:           Rishu Singh
+Father Name:    Tej Pratap Singh
+Mother Name:    Asha Singh
+Age:            21
+Date of Birth:  27/08/1998
+City:           Ayodhya
+State:          Uttar Pradesh
+Country:        India
+Branch:         Ayodhya
+Mobile:         7054935280
++-----------------------------------------------------------------+
++-----------------------------------------------------------------+
+Date & Time:    Sun Jan 05 18:59:10 2020
+
+Account type:   Saving
+Account Number: 6789000100023456
+Balance:        1000.000000
+Name:           Ashutosh Suryavanshi
+Father Name:    Tej Pratap Singh
+Mother Name:    Asha Singh
+Age:            16
+Date of Birth:  02/06/2003
+City:           Ayodhaya
+State:          Uttar Pradesh
+Country:        India
+Branch:         Ayodhaya
+Mobile:         9935577383
++-----------------------------------------------------------------+
+
++-----------------------------------------------------------------+
+Date & Time:    Sun Jan 05 19:04:11 2020
+
+Account type:   Current
+Account Number: 6789000100034567
+Balance:        0.0
+Name:           Atul
+Father Name:    T P Singh
+Mother Name:    A Singh
+Age:            18
+Date of Birth:  15/09/2002
+City:           Ayodhya
+State:          Uttar Pradesh
+Country:        India
+Branch:         Ayodhya
+Mobile:         9935577383
++-----------------------------------------------------------------+
+
++-----------------------------------------------------------------+
+Date & Time:    Mon Jan 06 19:27:02 2020
+
+Account type:   Saving
+Account Number: 6789000100054321
+Balance:        0.0
+Name:           A
+Father Name:    B
+Mother Name:    C
+Age:            20
+Date of Birth:  01/02/2003
+City:           D
+State:          E
+Country:        F
+Branch:         D
+Mobile:         8976543210
++-----------------------------------------------------------------+
+

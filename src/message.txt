@@ -1,0 +1,5 @@
+Welcome to Signature Bank of India. The Most trusted bank this nation.
+This is the an Application which is going to help the stuff members an managers to manage their day to day activity.
+It will help to open customer account and manage their transactions and other activities like loans.
+It will also help to manage the loans issued by the bank.
+Branch managers can keep an eye on daily activities of bank and performance of their staff members.
